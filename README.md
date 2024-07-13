@@ -3,7 +3,9 @@
 In this project, cubes were classified based on color using a color sensor, then transported and sorted using a conveyor belt and a 4DOF robotic arm. For seamless coordination and reduced complexity, the Propeller Activity Board was used, leveraging its multiprocessing capability.
 
 <p align="center">
-  <img src="ColorCubeSorterGIF.gif" alt="Sorting in Action" width="600"/>
+  <a href="https://youtu.be/x4tu3nL01OI?si=GthjDjz5y5HyYdao" target="_blank">
+    <img src="ColorCubeSorterGIF.gif" alt="Sorting in Action" width="600"/>
+  </a>
 </p>
 
 ## Components Used
