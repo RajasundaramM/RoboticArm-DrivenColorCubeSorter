@@ -1,4 +1,4 @@
-# ColorCubeSortingRobot
+# RoboticArm-DrivenColorCubeSorter
 
 In this project, cubes were classified based on color using a color sensor, then transported and sorted using a conveyor belt and a 4DOF robotic arm. For seamless coordination and reduced complexity, the Propeller Activity Board was used, leveraging its multiprocessing capability.
 
